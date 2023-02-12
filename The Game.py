@@ -1,6 +1,6 @@
 import Terminal_py
 from time import sleep
-import Zombie_game_files as sg
+import files as sg
 
 def update():
 
