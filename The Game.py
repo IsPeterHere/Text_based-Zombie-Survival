@@ -1,6 +1,6 @@
 import Terminal_py
 from time import sleep
-import files as sg
+import Running_process as sg
 
 def update():
 
